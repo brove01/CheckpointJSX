@@ -1,0 +1,16 @@
+.Titlename{
+    color: #074786;
+    font-size: 30px;
+}
+.name{
+    color: #64078f;
+    font-family: cursive;
+    font-size: 40px;
+}
+.Na{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height:5px;
+    margin-top:20px;
+}
